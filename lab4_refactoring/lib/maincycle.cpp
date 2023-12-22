@@ -1,5 +1,5 @@
 #include "maincycle.h"
-
+#include "algorithm"
 
 MainCycle::MainCycle()
 {
