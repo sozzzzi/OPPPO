@@ -1,0 +1,8 @@
+rem circle
+add circle 1 2 3 red
+add circle 1 2 3 red
+print
+add circle
+print
+add
+ahhahaha
